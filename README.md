@@ -71,11 +71,12 @@ For this project, the maximum capacity is set to **10 people**.
 
 # **5\. BLOCK DIAGRAM**
 
-**![][image1]**
+**![image1](BLOCKDIAGRAM.png)**
 
 **6\. SCHEMATIC DIAGRAM** 
 
-![][image2]**7\. PRINCIPLE OF OPERATION**
+![image2](SCHEMATIC.png)**
+7\. PRINCIPLE OF OPERATION**
 
 The project works on the principle of **infrared object detection and microcontroller-based counting**.
 
@@ -114,11 +115,12 @@ The I2C LCD receives display data from the Arduino through:
 
 * **SDA → A4**  
 * **SCL → A5**  
-* **![][image3]**
+* **![image3](TINKERCAD.png)**
 
   # **8\. ARDUINO CODE**
 
-  #  
+  #   **![image3](ARDUINOCODE.ino)**
+
 
   # **9\. ADVANTAGES**
 
